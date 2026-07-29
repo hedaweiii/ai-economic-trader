@@ -1,5 +1,5 @@
 {
-  "scan_date": "2026-07-28 11:37",
+  "scan_date": "2026-07-29 09:55",
   "scan_params": {
     "zscore_window": 60,
     "entry_z": 2.0,
@@ -25,14 +25,29 @@
       "n2": "包钢股份",
       "p_value_train": 0.085653,
       "correlation_train": 0.8628,
-      "avg_return_pct": 28.9,
-      "max_drawdown_pct": 3.67,
-      "sharpe_est": 7.87,
-      "year_2025_return": 51.69,
-      "year_2026_return": 6.11
+      "avg_return_pct": 28.92,
+      "max_drawdown_pct": 3.73,
+      "sharpe_est": 7.74,
+      "year_2025_return": 51.61,
+      "year_2026_return": 6.22
     },
     {
       "rank": 2,
+      "sector": "有色金属",
+      "c1": "601899",
+      "c2": "603993",
+      "n1": "紫金矿业",
+      "n2": "洛阳钼业",
+      "p_value_train": 0.038709,
+      "correlation_train": 0.9726,
+      "avg_return_pct": 24.0,
+      "max_drawdown_pct": 0,
+      "sharpe_est": 99,
+      "year_2025_return": 47.76,
+      "year_2026_return": 0.23
+    },
+    {
+      "rank": 3,
       "sector": "家电",
       "c1": "002242",
       "c2": "603868",
@@ -40,14 +55,14 @@
       "n2": "飞科电器",
       "p_value_train": 0.005689,
       "correlation_train": 0.9192,
-      "avg_return_pct": 16.46,
-      "max_drawdown_pct": 0.49,
-      "sharpe_est": 33.65,
-      "year_2025_return": 13.07,
-      "year_2026_return": 19.84
+      "avg_return_pct": 16.64,
+      "max_drawdown_pct": 0.5,
+      "sharpe_est": 33.58,
+      "year_2025_return": 13.14,
+      "year_2026_return": 20.15
     },
     {
-      "rank": 3,
+      "rank": 4,
       "sector": "港口航运",
       "c1": "601866",
       "c2": "601919",
@@ -55,14 +70,14 @@
       "n2": "中远海控",
       "p_value_train": 0.013231,
       "correlation_train": 0.6378,
-      "avg_return_pct": 16.16,
+      "avg_return_pct": 16.28,
       "max_drawdown_pct": 0,
       "sharpe_est": 99,
-      "year_2025_return": 31.99,
-      "year_2026_return": 0.33
+      "year_2025_return": 32.21,
+      "year_2026_return": 0.34
     },
     {
-      "rank": 4,
+      "rank": 5,
       "sector": "港口航运",
       "c1": "601872",
       "c2": "600026",
@@ -70,26 +85,11 @@
       "n2": "中远海能",
       "p_value_train": 0.088162,
       "correlation_train": 0.8782,
-      "avg_return_pct": 14.73,
-      "max_drawdown_pct": 3.31,
-      "sharpe_est": 4.45,
-      "year_2025_return": 29.34,
-      "year_2026_return": 0.13
-    },
-    {
-      "rank": 5,
-      "sector": "保险",
-      "c1": "601318",
-      "c2": "601628",
-      "n1": "中国平安",
-      "n2": "中国人寿",
-      "p_value_train": 0.008604,
-      "correlation_train": 0.9587,
-      "avg_return_pct": 12.53,
-      "max_drawdown_pct": 3.07,
-      "sharpe_est": 4.08,
-      "year_2025_return": 22.55,
-      "year_2026_return": 2.51
+      "avg_return_pct": 15.34,
+      "max_drawdown_pct": 3.42,
+      "sharpe_est": 4.49,
+      "year_2025_return": 30.53,
+      "year_2026_return": 0.14
     },
     {
       "rank": 6,
@@ -100,10 +100,10 @@
       "n2": "赣锋锂业",
       "p_value_train": 0.005121,
       "correlation_train": 0.9829,
-      "avg_return_pct": 10.18,
+      "avg_return_pct": 10.25,
       "max_drawdown_pct": 11.28,
-      "sharpe_est": 0.9,
-      "year_2025_return": 14.14,
+      "sharpe_est": 0.91,
+      "year_2025_return": 14.26,
       "year_2026_return": 6.23
     },
     {
@@ -115,11 +115,11 @@
       "n2": "深圳能源",
       "p_value_train": 0.08563,
       "correlation_train": 0.7281,
-      "avg_return_pct": 9.83,
-      "max_drawdown_pct": 0.2,
-      "sharpe_est": 48.86,
-      "year_2025_return": 11.7,
-      "year_2026_return": 7.96
+      "avg_return_pct": 10.12,
+      "max_drawdown_pct": 0.21,
+      "sharpe_est": 48.9,
+      "year_2025_return": 12.03,
+      "year_2026_return": 8.22
     },
     {
       "rank": 8,
@@ -128,13 +128,13 @@
       "c2": "000063",
       "n1": "中国联通",
       "n2": "中兴通讯",
-      "p_value_train": 0.061424,
-      "correlation_train": 0.5736,
-      "avg_return_pct": 7.8,
-      "max_drawdown_pct": 1.1,
-      "sharpe_est": 7.12,
-      "year_2025_return": 7.01,
-      "year_2026_return": 8.6
+      "p_value_train": 0.061483,
+      "correlation_train": 0.5738,
+      "avg_return_pct": 7.89,
+      "max_drawdown_pct": 1.11,
+      "sharpe_est": 7.11,
+      "year_2025_return": 7.07,
+      "year_2026_return": 8.7
     },
     {
       "rank": 9,
@@ -145,10 +145,10 @@
       "n2": "东兴证券",
       "p_value_train": 0.016257,
       "correlation_train": 0.817,
-      "avg_return_pct": 6.1,
-      "max_drawdown_pct": 9.51,
+      "avg_return_pct": 6.12,
+      "max_drawdown_pct": 9.55,
       "sharpe_est": 0.64,
-      "year_2025_return": 6.31,
+      "year_2025_return": 6.35,
       "year_2026_return": 5.9
     },
     {
@@ -160,29 +160,14 @@
       "n2": "赣粤高速",
       "p_value_train": 0.083177,
       "correlation_train": 0.9369,
-      "avg_return_pct": 5.75,
-      "max_drawdown_pct": 8.63,
-      "sharpe_est": 0.67,
-      "year_2025_return": 6.83,
-      "year_2026_return": 4.67
+      "avg_return_pct": 5.96,
+      "max_drawdown_pct": 8.99,
+      "sharpe_est": 0.66,
+      "year_2025_return": 7.05,
+      "year_2026_return": 4.88
     },
     {
       "rank": 11,
-      "sector": "券商",
-      "c1": "601788",
-      "c2": "000783",
-      "n1": "光大证券",
-      "n2": "长江证券",
-      "p_value_train": 0.028257,
-      "correlation_train": 0.8971,
-      "avg_return_pct": 5.51,
-      "max_drawdown_pct": 2.31,
-      "sharpe_est": 2.39,
-      "year_2025_return": 7.79,
-      "year_2026_return": 3.24
-    },
-    {
-      "rank": 12,
       "sector": "高速公路",
       "c1": "600350",
       "c2": "601107",
@@ -190,44 +175,29 @@
       "n2": "四川成渝",
       "p_value_train": 0.098429,
       "correlation_train": 0.9129,
-      "avg_return_pct": 5.43,
+      "avg_return_pct": 5.69,
       "max_drawdown_pct": 0,
       "sharpe_est": 99,
-      "year_2025_return": 9.11,
-      "year_2026_return": 1.75
+      "year_2025_return": 9.55,
+      "year_2026_return": 1.84
+    },
+    {
+      "rank": 12,
+      "sector": "券商",
+      "c1": "601788",
+      "c2": "000783",
+      "n1": "光大证券",
+      "n2": "长江证券",
+      "p_value_train": 0.028257,
+      "correlation_train": 0.8971,
+      "avg_return_pct": 5.28,
+      "max_drawdown_pct": 2.31,
+      "sharpe_est": 2.29,
+      "year_2025_return": 7.85,
+      "year_2026_return": 2.71
     },
     {
       "rank": 13,
-      "sector": "券商",
-      "c1": "600030",
-      "c2": "601198",
-      "n1": "中信证券",
-      "n2": "东兴证券",
-      "p_value_train": 0.080399,
-      "correlation_train": 0.939,
-      "avg_return_pct": 4.11,
-      "max_drawdown_pct": 1.76,
-      "sharpe_est": 2.33,
-      "year_2025_return": 5.42,
-      "year_2026_return": 2.79
-    },
-    {
-      "rank": 14,
-      "sector": "通信",
-      "c1": "600050",
-      "c2": "002396",
-      "n1": "中国联通",
-      "n2": "星网锐捷",
-      "p_value_train": 0.085342,
-      "correlation_train": 0.5305,
-      "avg_return_pct": 4.03,
-      "max_drawdown_pct": 3.22,
-      "sharpe_est": 1.25,
-      "year_2025_return": 3.19,
-      "year_2026_return": 4.87
-    },
-    {
-      "rank": 15,
       "sector": "航空运输",
       "c1": "600029",
       "c2": "600221",
@@ -235,11 +205,41 @@
       "n2": "海南航空",
       "p_value_train": 0.092391,
       "correlation_train": 0.7556,
-      "avg_return_pct": 4.03,
+      "avg_return_pct": 4.21,
       "max_drawdown_pct": 3.65,
-      "sharpe_est": 1.1,
+      "sharpe_est": 1.15,
       "year_2025_return": 4.54,
-      "year_2026_return": 3.51
+      "year_2026_return": 3.88
+    },
+    {
+      "rank": 14,
+      "sector": "券商",
+      "c1": "600030",
+      "c2": "601198",
+      "n1": "中信证券",
+      "n2": "东兴证券",
+      "p_value_train": 0.080399,
+      "correlation_train": 0.939,
+      "avg_return_pct": 4.16,
+      "max_drawdown_pct": 1.79,
+      "sharpe_est": 2.32,
+      "year_2025_return": 5.5,
+      "year_2026_return": 2.81
+    },
+    {
+      "rank": 15,
+      "sector": "通信",
+      "c1": "600050",
+      "c2": "002396",
+      "n1": "中国联通",
+      "n2": "星网锐捷",
+      "p_value_train": 0.085317,
+      "correlation_train": 0.5309,
+      "avg_return_pct": 4.07,
+      "max_drawdown_pct": 3.25,
+      "sharpe_est": 1.25,
+      "year_2025_return": 3.21,
+      "year_2026_return": 4.92
     },
     {
       "rank": 16,
@@ -250,11 +250,11 @@
       "n2": "中远海控",
       "p_value_train": 0.096804,
       "correlation_train": 0.8669,
-      "avg_return_pct": 3.94,
+      "avg_return_pct": 4.06,
       "max_drawdown_pct": 0,
       "sharpe_est": 99,
-      "year_2025_return": 5.64,
-      "year_2026_return": 2.25
+      "year_2025_return": 5.8,
+      "year_2026_return": 2.32
     },
     {
       "rank": 17,
@@ -265,11 +265,11 @@
       "n2": "南京银行",
       "p_value_train": 0.084604,
       "correlation_train": 0.6905,
-      "avg_return_pct": 3.29,
-      "max_drawdown_pct": 6.47,
-      "sharpe_est": 0.51,
-      "year_2025_return": 6.22,
-      "year_2026_return": 0.35
+      "avg_return_pct": 3.22,
+      "max_drawdown_pct": 6.59,
+      "sharpe_est": 0.49,
+      "year_2025_return": 6.07,
+      "year_2026_return": 0.36
     },
     {
       "rank": 18,
@@ -280,11 +280,11 @@
       "n2": "光大证券",
       "p_value_train": 0.069595,
       "correlation_train": 0.9009,
-      "avg_return_pct": 2.29,
+      "avg_return_pct": 3.02,
       "max_drawdown_pct": 7.47,
-      "sharpe_est": 0.31,
+      "sharpe_est": 0.4,
       "year_2025_return": 1.41,
-      "year_2026_return": 3.17
+      "year_2026_return": 4.62
     }
   ]
 }
